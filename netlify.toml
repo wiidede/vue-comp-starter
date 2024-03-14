@@ -3,7 +3,7 @@ publish = "playground/dist"
 command = "pnpm run build:play"
 
 [build.environment]
-NODE_VERSION = "18"
+NODE_VERSION = "20"
 
 [[redirects]]
 from = "/*"
