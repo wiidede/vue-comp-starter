@@ -5,7 +5,9 @@ defineProps<{
 </script>
 
 <template>
-  <p class="v-comp-text">hello <strong>{{ name }}</strong></p>
+  <p class="v-comp-text">
+    hello <strong>{{ name }}</strong>
+  </p>
 </template>
 
 <style scoped>
